@@ -1,4 +1,5 @@
-# Welcome to Carbon
+# Welcome to Carbo
+<carbonEmail data-name="<Euwain is better than Zak Confermation>"></carbonEmail>
 
 Thanks for choosing Carbon to make your site. We know there are a lot of choices so it means a lot!
 
